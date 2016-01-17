@@ -11,6 +11,7 @@
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     <link rel="stylesheet" href="styles/main.css">
     <!-- endbuild -->
   </head>
@@ -20,16 +21,22 @@
     <![endif]-->
 
     <!-- Add your site or application content here -->
-    <div class="container">
-      <div class="header">
-        <h3 class="text-muted">Menu</h3>
-      </div>
+    <div class="container test-class">
+        <div class="header">
+            <div class="redbox">
+                <p>
+                    <span>It's time to order some delicious food<span>
+                </p>
+            </div>
+        </div>
 
-      <div ng-view=""></div>
-
-      <div class="footer">
-        <p><span class="glyphicon glyphicon-heart"></span> from FOODit and the Yeoman team.</p>
-      </div>
+        <div id="menuwrap">
+            <h3 class="text-muted">Your Delicious Restaurant</h3>
+            <div ng-view=""></div>
+        </div>
+        <div class="footer">
+            <p><span class="glyphicon glyphicon-heart"></span> from FOODit and the Yeoman team.</p>
+        </div>
     </div>
 
     <!-- build:js(.) scripts/oldieshim.js -->

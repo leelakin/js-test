@@ -1,0 +1,199 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000345}}
+h1, h2, h3, h4, h5, p {
+  margin-bottom: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000348}}
+h1.large {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 70.434px;
+  line-height: 56.826px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000353}}
+h1.light {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 39.636px;
+  line-height: 39.636px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000358}}
+h1 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 39.636px;
+  line-height: 39.636px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000363}}
+h2 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 31.986px;
+  line-height: 31.986px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000368}}
+h3 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 23.994px;
+  line-height: 31.992px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000373}}
+h4 {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 18px;
+  line-height: 18px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000378}}
+p {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 16.74px;
+  line-height: 22.32px;
+  margin-bottom: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000384}}
+.sub, p.sub {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 13.5px;
+  line-height: 18px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_typography\.sass}line{font-family:\0000389}}
+b, .bold {
+  font-family: Verdana, Geneva, sans-serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\000033}}
+html {
+  box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\000036}}
+body {
+  color: #666;
+  font-family: Helvetica, Geneva, sans-serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000310}}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000313}}
+.container {
+  background-color: #f2f2f2;
+  max-width: 542px;
+  padding: 0px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000318}}
+.redbox {
+  height: auto;
+  width: 100%;
+  padding: 4px;
+  background-color: #d92626;
+  color: white;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000325}}
+.redbox p {
+  margin: 8px auto;
+  background-color: #e15151;
+  max-width: 300px;
+  border-radius: 2px;
+  font-size: 0.9em;
+  font-weight: 200;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000333}}
+#menuwrap {
+  margin: 0px 15px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000335}}
+#menuwrap h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000340}}
+.mealwrap {
+  background-color: #fff;
+  border-radius: 3px;
+  overflow: hidden;
+  margin: 15px 0px;
+  border: 1px solid #e1e1e1;
+  position: relative;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000347}}
+.mealwrap .mealpic {
+  position: relative;
+  overflow: hidden;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000349}}
+.mealwrap .mealpic h4, .mealwrap .mealpic .curveimg {
+  position: absolute;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000351}}
+.mealwrap .mealpic h4 {
+  bottom: 50px;
+  z-index: 1000;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000354}}
+.mealwrap .mealpic .image {
+  width: auto;
+}
+@media screen and (max-width: 450px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000354}}
+  .mealwrap .mealpic .image {
+    width: 400px;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000358}}
+.mealwrap .mealpic .curveimg {
+  bottom: 0px;
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000361}}
+.mealwrap .mealpic .curveimg.curve1 {
+  height: 120px;
+  opacity: 0.8;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000365}}
+.mealwrap .description {
+  font-size: 1em;
+  margin: 5px 25px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000368}}
+.mealwrap .description button.btn, .mealwrap .description button.btn:hover, .mealwrap .description button.btn:focus {
+  display: block;
+  width: 100%;
+  margin-top: 10px;
+  background-color: #4d4dff;
+  color: #fff;
+  font-size: 1em;
+  font-style: italic;
+  border-radius: 3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000377}}
+.mealwrap p.price {
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  background-color: #4d4dff;
+  color: #fff;
+  font-size: 1em;
+  font-style: italic;
+  margin-left: -25px;
+  padding: 5px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Huner\/work\/FOODit_test\/FOODit-FrontEndTest-master\/app\/styles\/_styles\.sass}line{font-family:\0000389}}
+.mealwrap .optavail {
+  margin: 0px 25px;
+  font-size: 0.8em;
+  color: #ccc;
+  margin-bottom: 5px;
+}

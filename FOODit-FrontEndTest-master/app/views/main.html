@@ -1,8 +1,19 @@
-<ul class="meals">
+<ul class="meals list-unstyled">
     <li class="meal" ng-repeat="meal in menu.meals">
-        <h4 class="name">{{meal.name}}</h4>
-        <img class="image" ng-src="{{meal.primaryImageUrl}}">
-        <p class="description">{{meal.description}}</p>
-        <p class="price">{{meal.price}}</p>
+    	<div class="mealwrap">
+        <div class="mealpic">
+        	<h4 class="name">{{meal.name}}</h4>
+          <img class="image" ng-src="{{meal.primaryImageUrl}}">
+          <img class="curveimg curve1" src="../images/meal-card__curve.svg">
+          <img class="curveimg" src="../images/meal-card__curve.svg">
+        </div>         
+        <p class="description text-muted">
+        	{{meal.description}}
+        	<button class="btn">Add To Your Order</button>
+        </p>
+        <p class="price">£{{meal.price}}</p>
+        
+        <p class="optavail">3 options available</p>
+      </div>
     </li>
 </ul>
