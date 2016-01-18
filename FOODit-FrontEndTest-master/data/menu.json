@@ -13,7 +13,7 @@
 		"description": "Caramelized onions lend a slight sweetness to this hearty pasta dish, with Onion, Bacon, and Parmesan",
 		"price": "8.50",
 		"primaryImageUrl": "http://lh4.ggpht.com/xVItGb4gEo_f-q8G0jDTNbguDdS2NzaSz2fqti_a6f3egda7DLbTI0eGqdCgXakqT3TsezDlKDFtdNYWdGJvtw",
-		"tags": ["pasta", "#course:main_courses"]
+		"tags": ["pasta", "pork", "#course:main_courses"]
 	},
 	{
 		"id": "33415cd067ba0ac61b36516726ffb762",
@@ -21,7 +21,7 @@
 		"description": "Mussels, shrimp, and squid simmer in a homemade tomato-wine sauce that's served over pasta in this main-dish recipe.",
 		"price": "9.50",
 		"primaryImageUrl": "http://lh5.ggpht.com/KioRENoZdDzKH-EJfQHtsjlSd3MfZT7v0j9XcmGs7l1SgB-_ybCu2m7hrH888n0s-MEFXdSOhzbaW6IWBwe5X5w",
-		"tags": ["pasta", "#course:main_courses", "#diet:pescetarian"]
+		"tags": ["pasta", "seafood", "#course:main_courses", "#diet:pescetarian"]
 	},
 	{
 		"id": "6c098bd2443ca31180b69c0371390e57",
@@ -29,7 +29,7 @@
 		"description": "Spinach Pesto with Fusilli, Goat Cheese and Peppers. Serve with: Grated Carrot Salad.",
 		"price": "8.50",
 		"primaryImageUrl": "http://lh3.ggpht.com/_VsPUDOT5r9ShxxZUqcG6JDuamdoj5goKt1xsnCmX6lLgbdbgbh69jlMFBIo1P_icX0KQVcExBIcuppeIfYiSSE",
-		"tags": ["pasta", "#course:main_courses", "#diet:vegetarian"]
+		"tags": ["pasta", "#course:main_courses", "vegetarian"]
 	},
 	{
 		"id": "020d99cc7c0f43a03fa1bac2160041b2",
@@ -45,7 +45,7 @@
 		"description": "meatballs (pork, prawn) in an aromatic tomato gravy",
 		"price": "5.95",
 		"primaryImageUrl": "http://lh3.ggpht.com/yWX0xxxT8icSPp9tXRzKe8jm7fcmJx4C8xBGsZfdBkGypLmAMaFUh6AoDkQKqhq6xhFItMqMm4nwdqhj4RX_tB7H",
-		"tags": ["pork"]
+		"tags": ["pork", "seafood"]
 	},
 	{
 		"id": "6fd4d9f436b2bf5dc709c08477fdd245",
@@ -61,7 +61,7 @@
 		"description": "honey glazed pork, lemongrass",
 		"price": "5.95",
 		"primaryImageUrl": "http://lh3.ggpht.com/lQxVwcO0KfAIw_hshQ1BzjyJk1PcihoM9cwtPggBI_2J6NchZY8mE_qmWkqzcD2CP5YC9fAn5rGvbu6djxT7Jw0",
-		"tags": ["pork"]
+		"tags": ["pork", "barbecue"]
 	},
 	{
 		"id": "6cf4ca9ec848ff3cda33352754d7c7db",
@@ -117,7 +117,7 @@
 		"description": "fish cake, spring rolls, satay, torpedo prawn, chicken toast",
 		"price": "11.00",
 		"primaryImageUrl": "http://lh6.ggpht.com/cwi1pSHBdZILO_SlIdVo7wwo1jog428vvkoC6MCTKbjWeCG4dIKpNHERqg5G3zFpe_oYp3n6kQLpkvDdAArhdA",
-		"tags": ["chicken"]
+		"tags": ["chicken", "seafood"]
 	},
 	{
 		"id": "1936686929c17774bb7d29f4277ffddb",
@@ -125,7 +125,7 @@
 		"description": "\"Morsels of chicken, stir fried with green chillies in a delicate sauce.\"",
 		"price": "4.50",
 		"primaryImageUrl": "http://lh4.ggpht.com/vpyNM-IjSMvg6ToLCgIpg28NQDH9l8aIo_ZQ9SK6DKV_b-1LMLYg4bsvUNOPTrhnObkW9_Y3DA7nGpbvfvsNF_TU",
-		"tags": ["chicken"]
+		"tags": ["chicken", "spicy"]
 	},
 	{
 		"id": "0a02f325ea8520bfc904b777d597cafa",
@@ -133,7 +133,7 @@
 		"description": "lemongrass chicken, contains peanut butter",
 		"price": "5.95",
 		"primaryImageUrl": "http://lh5.ggpht.com/DHDgBf2jdQhC9Mi1FeUHM6zakKRg-VVO-UyBwx7YKd_WSy6d_44HHb0paI0xFVjcG_tWoZxFDKrB7Vxfn11JiA",
-		"tags": ["chicken"]
+		"tags": ["chicken", "peanut"]
 	},
 	{
 		"id": "046cc14b30d162bacb38ca811d072cd1",
@@ -149,7 +149,7 @@
 		"description": "",
 		"price": "6.60",
 		"primaryImageUrl": "http://lh4.ggpht.com/yBHT8-mzeA5utp9x1bDpnIXIcc2cq_cPyK4wMOpx1BwoRQxZo2RaC2V5saqGkf-9t4zMsnCjvEzjP91Lro_5NII",
-		"tags": ["#course:main_courses", "#type:lunch", "#type:snack", "#allergen:wheat", "#allergen:eggs", "beef"]
+		"tags": ["#course:main_courses", "cheese", "#type:lunch", "#type:snack", "#allergen:wheat", "#allergen:eggs", "beef"]
 	},
 	{
 		"id": "0f02e0b5d2eb9cb617e0a48415fe24d3",
