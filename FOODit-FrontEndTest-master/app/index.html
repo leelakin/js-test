@@ -23,9 +23,17 @@
     <!-- Add your site or application content here -->
     <div class="container test-class">
         <div class="header">
-            <div class="redbox">
+            <div class="redbox first">
                 <p>
                     <span>It's time to order some delicious food<span>
+                </p>
+            </div>
+            <div class="redbox basketbox">
+                <p>
+                    <span><span class="counthere"></span> main</span>
+                </p>
+                <p>
+                    <span>£<span class="pricehere"></span><span>
                 </p>
             </div>
         </div>
@@ -48,6 +56,7 @@
 
     <!-- build:js(.) scripts/vendor.js -->
     <!-- bower:js -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-animate/angular-animate.js"></script>
     <script src="bower_components/angular-cookies/angular-cookies.js"></script>
