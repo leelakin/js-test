@@ -25,11 +25,10 @@ angular.module('jstestApp')
 	  		console.log("tag array before splicing: " + tagz);
 	  		if (tagz[j].charAt(0)==="#"){
 	  			var splicedtag = (tagz.splice(j,1))[0];
-	  			console.log("spliced tag: " + splicedtag);
+
 	  			menuobj.meals[i].othertags.push(splicedtag);
+	  			//adjust array index after splice
 	  			j = j-1;
-	  			//menuobj.meals[i].othertags.push((tagz.splice(j,1))[0])//[0] bc returns array?
-	  			console.log("tag array after splicing: " + tagz);
 	  		}
 	  	}
 	  	//check arrays of this round
@@ -37,7 +36,7 @@ angular.module('jstestApp')
 	  	console.log("othertags array: " + menuobj.meals[i].othertags);
 	  	console.log("meal loop done.");	  	
 	  };
-	  $scope.menu = data;
+	  $scope.menu = menuobj;
 	  
 
 	});

@@ -7,7 +7,11 @@
           <img class="curveimg curve1" src="../images/meal-card__curve.svg">
           <div class="curveback"></div>
           <img class="curveimg" src="../images/meal-card__curve.svg">
-          <div class="tagholder"><div class="tags"></div></div>
+          <div class="tagholder"><div class="tags">
+          	<div class="atag" ng-repeat="tag in meal.tags">
+          		<img ng-src="../images/tag--{{tag}}.svg" alt="{{tag}}">
+          	</div>
+          </div></div>
         </div>         
         <p class="description text-muted">
         	{{meal.description}}
