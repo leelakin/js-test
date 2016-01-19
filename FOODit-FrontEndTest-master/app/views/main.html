@@ -17,7 +17,7 @@
         	{{meal.description}}
         	<button class="btn" ng-click="basket(meal)">Add To Your Order</button>
         </p>
-        <p class="price">£{{meal.price}}</p>
+        <p class="price" ng-click="basketToggle()">£{{meal.price}}</p>
         
         <p class="optavail">3 options available</p>
       </div>
